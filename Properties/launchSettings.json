@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TaskBug.Task": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7059",
+      "launchBrowser": false
+    }
+  }
+}
